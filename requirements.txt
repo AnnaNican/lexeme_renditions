@@ -1,2 +1,5 @@
 gensim
 pandas
+spacy
+nltk
+
